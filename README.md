@@ -285,7 +285,7 @@ telco-customer-churn-analysis/
 ├── README.md
 ├── requirements.txt
 ├── notebooks/
-│   └── 01_telco_churn_analysis.ipynb
+│   └── Telco_Customer_Churn_and_Retention_Analysis.ipynb
 ├── powerbi/
 │   └── telco_churn_dashboard.pbix
 ├── assets/
