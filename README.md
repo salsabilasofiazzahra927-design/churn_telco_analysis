@@ -266,32 +266,16 @@ The `churn_score` was already provided in the dataset and was used as an operati
 
 ![Executive Overview](assets/dashboard_overview.png)
 
+### Profile Analysis
+
+![Profile Analysis](assets/profile_analysis.png)
+
 ### Churn Drivers
 
 ![Churn Drivers](assets/churn_drivers.png)
-
-### Numerical Analysis
-
-![Numerical Analysis](assets/numeric_analysis.png)
 
 ### Retention Strategy
 
 ![Retention Strategy](assets/retention_strategy.png)
 
-## Repository Structure
 
-```text
-telco-customer-churn-analysis/
-├── README.md
-├── requirements.txt
-├── notebooks/
-│   └── Telco_Customer_Churn_and_Retention_Analysis.ipynb
-├── powerbi/
-│   └── telco_churn_dashboard.pbix
-├── assets/
-│   ├── dashboard_overview.png
-│   ├── churn_drivers.png
-│   ├── numeric_analysis.png
-│   └── retention_strategy.png
-└── data/
-    └── telco_churn_final_analysis.csv
